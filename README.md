@@ -29,6 +29,13 @@
 
 -  ☕ Hobbies : Sleeping, web novels, walking and listning to hindi music. <br><br><br>
 
+   <h2 align="center"> !!My Coding Profile!! </h2><br>                           
+
+- Codeforces: https://codeforces.com/profile/the_explorer_adarsh  ; Rating:1081.
+- Codechef: https://www.codechef.com/users/rjit22cs05   ; Rating 1581.
+- Leetcode: https://leetcode.com/u/the_explorer_adarsh/
+- GeeksForGeeks: https://www.geeksforgeeks.org/user/the_explorer_adarsh/ 
+
 
 
 <!---
