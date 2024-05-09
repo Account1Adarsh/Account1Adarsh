@@ -31,11 +31,21 @@
 -  ☕ Hobbies : Sleeping, web novels, walking and listning to hindi music. <br><br><br>
 
 <h2></h2>
-<img align="right" src="./assets/vaporwave-aesthetic.gif" height="560px" alt="pixel city image">
    
-<h2 align="center"><strong> My Coding Profile </strong> <img src="borderseparator .gif" width="100%"/> </h2><br> 
 
+ 
 
+<div allign="center">
+  <h2 align="center"><strong> My Coding Profile </strong> <img src="borderseparator .gif" width="100%"/> </h2>
+  <div allign="center">
+    <a >
+      <img src="codeforces-sponsored-by-ton.png" width="250px" alt="CodeForces"/><br>
+      <strong>RATING: 1084</strong><br>
+      <strong> Profile Link:</strong> <herf="https://codeforces.com/profile/the_explorer_adarsh"> the_explorer_adarsh</herf><br>
+    </a>
+  </div>
+  
+</div>
 
 - Codeforces: https://codeforces.com/profile/the_explorer_adarsh  ; Rating:1081.
 - Codechef: https://www.codechef.com/users/rjit22cs05   ; Rating 1581.
