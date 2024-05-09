@@ -29,7 +29,10 @@
 
 -  ☕ Hobbies : Sleeping, web novels, walking and listning to hindi music. <br><br><br>
 
-   <h2 align="center"> !!My Coding Profile!! </h2><br>                           
+<h2></h2>
+<img align="right" src="./assets/vaporwave-aesthetic.gif" height="560px" alt="pixel city image">
+   
+<h2 align="center"> My Coding Profile </h2><br>                           
 
 - Codeforces: https://codeforces.com/profile/the_explorer_adarsh  ; Rating:1081.
 - Codechef: https://www.codechef.com/users/rjit22cs05   ; Rating 1581.
