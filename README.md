@@ -30,27 +30,46 @@
 
 -  ☕ Hobbies : Sleeping, web novels, walking and listning to hindi music. <br><br><br>
 
-<h2></h2>
-   
-
- 
 
 <div allign="center">
   <h2 align="center"><strong> My Coding Profile </strong> <img src="borderseparator .gif" width="100%"/> </h2>
-  <div allign="center">
-    <a >
+  <a >
       <img src="codeforces-sponsored-by-ton.png" width="250px" alt="CodeForces"/><br>
-      <strong>RATING: 1084</strong><br>
-      <strong> Profile Link:</strong> <herf="https://codeforces.com/profile/the_explorer_adarsh"> the_explorer_adarsh</herf><br>
-    </a>
-  </div>
-  
+    <strong>RATING: 1084</strong><br>
+    <strong> Profile Link:</strong> <herf="https://codeforces.com/profile/the_explorer_adarsh"> the_explorer_adarsh</herf><br>
+  </a>
+    &nbsp
+  <img src="borderseparator .gif" width="100%"/>
+   <a >
+      <img src="codechef_img.png" width="250px" alt="CodeChef"/><br>
+    <strong>RATING: 1581</strong><br>
+    <strong> Profile Link:</strong> <herf="https://www.codechef.com/users/rjit22cs05"> Mr_Loner</herf><br>
+  </a>
+   &nbsp
+  <img src="borderseparator .gif" width="100%"/>
+   <a >
+      <img src="Leetcode_image.png" width="100px" alt="LeetCode"/><br>
+     <strong>Problem Solved: 20 </strong><br>
+    <strong> Profile Link:</strong> <herf="https://leetcode.com/u/the_explorer_adarsh/"> the_explorer_adarsh</herf><br>
+  </a>
+   &nbsp
+  <img src="borderseparator .gif" width="100%"/>
+   <a >
+      <img src="GFG_image.png" width="100px" alt="Geeks For Geeks"/><br>
+    <strong>Problem Solved: 174 </strong><br>
+    <strong> Profile Link:</strong> <herf="https://www.geeksforgeeks.org/user/the_explorer_adarsh/?utm_source=geeksforgeeks&utm_medium=my_profile&utm_campaign=auth_user"> the_explorer_adarsh</herf><br>
+  </a>
 </div>
 
-- Codeforces: https://codeforces.com/profile/the_explorer_adarsh  ; Rating:1081.
-- Codechef: https://www.codechef.com/users/rjit22cs05   ; Rating 1581.
-- Leetcode: https://leetcode.com/u/the_explorer_adarsh/
-- GeeksForGeeks: https://www.geeksforgeeks.org/user/the_explorer_adarsh/ 
+<br>
+<img src="borderseparator .gif" width="100%"/>
+- Codeforces: https://codeforces.com/profile/the_explorer_adarsh <br>
+- Codechef: https://www.codechef.com/users/rjit22cs05  <br>
+- Leetcode: https://leetcode.com/u/the_explorer_adarsh/<br>
+- GeeksForGeeks: https://www.geeksforgeeks.org/user/the_explorer_adarsh/ <br>
+<img src="borderseparator .gif" width="100%"/>
+
+
 
 
 
