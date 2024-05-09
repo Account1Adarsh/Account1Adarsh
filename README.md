@@ -73,8 +73,8 @@
 
 <div align="center">
   <h2> My Github Stats <img src="borderseparator .gif" width="100%"/></h2><br>
-  <img src="https://streak-stats.demolab.com?user=Account1Adarsh&theme=radical" width="49%" alt="streaks graph" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Account1Adarsh&theme=radical&show_icons=true&count_private=true" width="59%" alt="stats graph" />
+  <img src="https://streak-stats.demolab.com?user=Account1Adarsh&theme=dark" width="49%" alt="streaks graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Account1Adarsh&theme=dark&show_icons=true&count_private=true" width="59%" alt="stats graph" />
 </div> <br>
 
 <div align="center">
