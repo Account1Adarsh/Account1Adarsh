@@ -1,9 +1,13 @@
 
+<img src="borderseparator .gif" width="100%"/>
+
 <div align="center">
-  <img src="./assets/animated-flame-01.gif" width="1.75%" align="left"/>
+  <img src="animated-flame.gif" width="1.75%" align="left"/>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hey%2C+This+is+Adarsh+and+Welcome+to+my+Profile!" alt="Hey, This is Adarsh and welcome to my profile! animated typed out" width="90%" align="middle"/>
-  <img src="./assets/animated-flame-01.gif" width="1.75%" align="right"/>
+  <img src="animated-flame.gif" width="1.75%" align="right"/>
 </div>
+
+<img src="borderseparator .gif" width="100%"/>
 
 
 <div align="center">
@@ -14,9 +18,8 @@
 
 <h2></h2>
 
-<img align="right" src="./assets/vaporwave-aesthetic.gif" height="560px" alt="pixel city image">
+<h2 align="center"> Self-taught<img src="animated-flame.gif" width="14px"/> and learning coding! <img src="animated-flame.gif" width="14px"/><img src="borderseparator .gif" width="100%"/></h2><br>
 
-<h2 align="center"> Self-taught and learning coding! </h2><br>
 
 
 - 👋 Hello, I’m Adarsh, a college student 👨‍💻 and I am currenty pursuing a B.Tech degree in Computer Science and Engineering degree from RJIT, Gwalior , M.P, India. <br><br><br>
