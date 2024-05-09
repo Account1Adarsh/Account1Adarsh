@@ -2,9 +2,7 @@
 <img src="borderseparator .gif" width="100%"/>
 
 <div align="center">
-  <img src="animated-flame.gif" width="1.75%" align="left"/>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hey%2C+This+is+Adarsh+and+Welcome+to+my+Profile!" alt="Hey, This is Adarsh and welcome to my profile! animated typed out" width="90%" align="middle"/>
-  <img src="animated-flame.gif" width="1.75%" align="right"/>
 </div>
 
 <img src="borderseparator .gif" width="100%"/>
@@ -18,7 +16,7 @@
 
 <h2></h2>
 
-<h2 align="center"> Self-taught<img src="animated-flame.gif" width="14px"/> and learning coding! <img src="animated-flame.gif" width="14px"/><img src="borderseparator .gif" width="100%"/></h2><br>
+<h2 align="center"><strong> Self-taught and learning coding!</strong> <img src="borderseparator .gif" width="100%"/></h2><br>
 
 
 
@@ -35,7 +33,9 @@
 <h2></h2>
 <img align="right" src="./assets/vaporwave-aesthetic.gif" height="560px" alt="pixel city image">
    
-<h2 align="center"> My Coding Profile </h2><br>                           
+<h2 align="center"><strong> My Coding Profile </strong> <img src="borderseparator .gif" width="100%"/> </h2><br> 
+
+
 
 - Codeforces: https://codeforces.com/profile/the_explorer_adarsh  ; Rating:1081.
 - Codechef: https://www.codechef.com/users/rjit22cs05   ; Rating 1581.
